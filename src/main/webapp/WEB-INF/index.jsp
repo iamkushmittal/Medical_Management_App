@@ -7,7 +7,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>Medicine Management System</title>
+    <title>MY Medicine Management System</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
