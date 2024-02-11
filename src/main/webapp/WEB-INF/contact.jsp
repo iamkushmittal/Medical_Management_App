@@ -86,7 +86,7 @@
         
                             <h5>Say hello</h5>
                             <p>
-                            ashvaniupadhyay22@Gmail.com<br>
+                            mittalkush1999@gmail.com<br>
                       
                             </p>
                         </div> <!-- end s-contact__info-block -->
