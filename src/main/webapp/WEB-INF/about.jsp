@@ -27,8 +27,8 @@ http://www.templatemo.com/tm-468-onetel
     
 		<div class="row">
 			<div class="col-md-offset-2 col-md-8 col-sm-12">
-				<h2>Hi I am Ashwani Kumar Upadhyay</h2>
-                <p style="font-size:20px">Enthusiastic Java Developer with 1.5 year of
+				<h2>Hi I am Kush Mittal</h2>
+                <p style="font-size:20px">Enthusiastic Java Developer with 1.1 year of
 					experience in development. I have strong technical
 						skills as well as excellent interpersonal skills, enabling
 						me to interact with a wide range of people. I am eager
@@ -41,7 +41,7 @@ http://www.templatemo.com/tm-468-onetel
          
 			<div class="col-md-4 col-sm-4 col-xs-9" >
 				<div class="team-wrapper">
-					<img src="/resources/me.jpeg" class="img-responsive" alt="team img">
+					<img src="/resources/me.png" class="img-responsive" alt="team img">
 				</div>
 			</div>
 		
@@ -64,21 +64,21 @@ http://www.templatemo.com/tm-468-onetel
 					<div class="progress">
 						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
 					</div>
-				<strong>Android Development</strong>
+				<!-- <strong>Android Development</strong>
 				<span class="pull-right">70%</span>
 					<div class="progress">
 						<div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
-					</div>
+					</div> -->
 				<strong>Data Structure</strong>
 				<span class="pull-right">90%</span>
 					<div class="progress">
 						<div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
 					</div>
-				<strong>Unix/Shell Scripting</strong>
+				<!-- <strong>Unix/Shell Scripting</strong>
 				<span class="pull-right">80%</span>
 					<div class="progress">
 						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
-					</div>
+					</div> -->
 				<strong>Python</strong>
 				<span class="pull-right">70%</span>
 					<div class="progress">
@@ -89,11 +89,11 @@ http://www.templatemo.com/tm-468-onetel
 					<div class="progress">
 						<div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
 					</div>
-				<strong>Informatica Power center</strong>
+				<!-- <strong>Informatica Power center</strong>
 				<span class="pull-right">80%</span>
 					<div class="progress">
 						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
-					</div>
+					</div> -->
 			</div>
 		</div>
 	</div>
